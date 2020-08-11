@@ -14,11 +14,9 @@ Das Modellunternehmen Future Technology Consulting GmbH ist im Security Bereich 
 Das Modellunternehmen Future Technology Consulting GmbH hat sich entschieden eine Software für Berliner Unternehmen zu entwickeln, die eine grafische Übersicht der verschiedenen Kriminalitätsfälle aller Berliner Bezirken darstellt.
 
 ## Projektschnittstellen
-Für die Darstellungen von Berlin inklusive der einteilung in Bezirken wird D3.js verwendet. Diese liest die .geojson aus um die Bezirke in ihrer Form zu zeichnen.
-
-Die daten werden aus einer .csv ausgelesen und mittels D3.js gefiltert und dargestellt.
-
-Das Projekt wurde von dem Leiter der IT Abteilung und dem Chef genehmigt.
+Für die Darstellungen aller Berliner Bezirke wird die Framework D3.js verwendet. Die Framework liest die .geojson aus und zeichnet die Bezirke in ihre Form.
+Die Daten werden aus einer .csv ausgelesen und mittels D3.js gefiltert und dargestellt.
+Das Projekt wurde von dem Projektleiter der IT-Abteilung genehmigt.
 
 ## Projektziel
 Unser Kunde, ENTO Security KG, vertreibt verschiedenste Sicherheitstechnik für Mensch und Gebäude in und um Berlin. Das Unternehmen möchte eine Übersicht der Kriminalität in den berliner Bezirken um regionale Angebote anzupassen.
