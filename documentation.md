@@ -8,10 +8,10 @@
 
 # Einleitung
 ## Projektumfeld
-Das Modellunternehmens Future Technology Consulting GmbH ist im Security Bereich tätig und berät Unternehmen sowie Selbstständige bezüglich Ihrer Sicherheit sowohl im digitalen, als auch im analogen Bereich. Zu den Hauptaufgaben des Modellunternehmens Future Technology Consulting GmbH ist das entwickeln von verschiedene Softwarelösungen mittels Opendata und visualisiert diese nach Kundenwunsch.
+Das Modellunternehmen Future Technology Consulting GmbH ist im Security Bereich tätig und berät Unternehmen sowie Selbstständige bezüglich Ihrer Sicherheit sowohl im digitalen, als auch im analogen Bereich. Zu den Hauptaufgaben des Modellunternehmens Future Technology Consulting GmbH ist das entwickeln von verschiedenen Softwarelösungen mittels Opendata und visualisiert diese nach Kundenwunsch.
 
 ## Projektbegründung
-Die Burndown Gmbh hat sich entschieden seinen Kunden, die in Berlin tätig sind oder tätig werden wollen, eine Übersicht der verschiedenen Kriminalitätsfälle von allen Bezirken Berlins grafisch darzustellen.
+Das Modellunternehmen Future Technology Consulting GmbH hat sich entschieden seinen Kunden, die in Berlin tätig sind oder tätig werden wollen, eine Übersicht der verschiedenen Kriminalitätsfälle von allen Bezirken Berlins grafisch darzustellen.
 
 ## Projektschnittstellen
 Für die Darstellungen von Berlin inklusive der einteilung in Bezirken wird D3.js verwendet. Diese liest die .geojson aus um die Bezirke in ihrer Form zu zeichnen.
