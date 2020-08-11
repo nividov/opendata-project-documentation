@@ -8,7 +8,7 @@
 
 # Einleitung
 ## Projektumfeld
-Die Burndown GmbH ist im Bereich Security tätig und berät andere Unternehmen und auch Selbstständige bezüglich Ihrer Sicherheit in allen Bereichen. Um den Kunden aufzuklären, entwickelt die Burndown GmbH u. a. verschiedene Softwarelösungen mittels Opendata und Visualisiert diese in einfacher Art.
+Das Modellunternehmens Future Technology Consulting GmbH ist im Security Bereich tätig und berät Unternehmen sowie Selbstständige bezüglich Ihrer Sicherheit sowohl im digitalen, als auch im analogen Bereich. Zu den Hauptaufgaben des Modellunternehmens Future Technology Consulting GmbH ist das entwickeln von verschiedene Softwarelösungen mittels Opendata und visualisiert diese nach Kundenwunsch.
 
 ## Projektbegründung
 Die Burndown Gmbh hat sich entschieden seinen Kunden, die in Berlin tätig sind oder tätig werden wollen, eine Übersicht der verschiedenen Kriminalitätsfälle von allen Bezirken Berlins grafisch darzustellen.
