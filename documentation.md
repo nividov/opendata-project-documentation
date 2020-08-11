@@ -4,6 +4,8 @@
   * [Projektbegründung](#projektbegründung)
   * [Projektschnittstellen](#projektschnittstellen)
   * [Projektziel](#projektziel)
+- [Einleitung](#einleitung)
+  * [Zeitplanung](#zeitplanung)
 
 
 # Einleitung
@@ -29,3 +31,10 @@ Die Anwendung soll jährliche Statistiken anzeigen lassen und somit einen Verlau
 Die ENTO Security KG hat bisher immer auf sehr aufwändige Art und Weise die Kriminalitätsraten aus bestehenden Daten selbst für Berlin berechnet. Diese konnten weder gut gefiltert werden noch auf die einzelnen Bezirke eingegrenzt werden. Auf Grund der bisherigen Datenbeschaffung war es auch mühselig Vergleiche zum Vorjahr zu ziehen und einen Verlauf in den Kriminalitätsraten zu sehen. 
 
 Daher suchte die ENTO Security KG nach einer übersichtlichen Anwendung um die bisherigen Daten darzustellen und zu filtern. Geünscht ist es auch sich die letzten Jahre anschauen zu können um diese besser miteinander vergleichen zu können. 
+
+# Projektplanung
+## Zeitplanung
+
+## Personalplanung
+## Sachmittelplanung
+## Entwicklungsprozess
